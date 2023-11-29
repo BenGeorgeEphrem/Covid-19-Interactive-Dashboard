@@ -21,18 +21,18 @@ covid,latest= load_data()
 
 
 
-st.title('🦠 Covid-19 Dashborad 🦠 ')
-st.sidebar.markdown('🦠 **Covid-19 Dashborad** 🦠 ')
+st.title('🦠 Covid-19 Dashboard 🦠 ')
+st.sidebar.markdown('🦠 **Covid-19 Dashboard** 🦠 ')
 st.sidebar.markdown(''' 
-This app is to give insights about Covid-19 Infections around the world.
+This app gives insights about COVID-19 infections around the world.
 
-The data considerd for this analysis for 10 Months starting from 01-02-2020 to 30-11-2020
+The data considered for this analysis for 10 Months starting from 01-02-2020 to 30-11-2020
 
 Select the different options to vary the Visualization
 
 All the Charts are interactive. 
 
-Scroll the mouse over the Charts to feel the interactive features like Tool tip, Zoom, Pan
+Scroll the mouse over the Charts to feel the interactive features like Tool Tip, Zoom, Pan
                     
 
 Designed by: 
