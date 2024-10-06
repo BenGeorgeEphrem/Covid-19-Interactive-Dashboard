@@ -36,9 +36,7 @@ Scroll the mouse over the Charts to feel the interactive features like Tool Tip,
                     
 
 Designed by: 
-**Ben George**  
-and 
-**Imad Al Barwani** ''')  
+**Ben George** ''')  
 
 st.header("Select the Country to Visualize the Covid-19 Cases")
     
